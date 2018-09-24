@@ -1,0 +1,10 @@
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\bin\Debug\Задание2.exe.config
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\bin\Debug\Задание2.exe
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\bin\Debug\Задание2.pdb
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Debug\Задание2.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Debug\Задание2.Form1.resources
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Debug\Задание2.Properties.Resources.resources
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Debug\Задание2.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Debug\Задание2.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Debug\Задание2.exe
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Debug\Задание2.pdb

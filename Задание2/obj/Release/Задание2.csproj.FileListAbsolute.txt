@@ -1,0 +1,9 @@
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\bin\Release\Задание2.exe.config
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\bin\Release\Задание2.exe
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\bin\Release\Задание2.pdb
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Release\Задание2.Form1.resources
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Release\Задание2.Properties.Resources.resources
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Release\Задание2.csproj.GenerateResource.cache
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Release\Задание2.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Release\Задание2.exe
+C:\Users\ПК\Desktop\мехмат рабочее\Графика\Задание2\Задание2\obj\Release\Задание2.pdb
